@@ -1,0 +1,14 @@
+{
+  "firstName": "Maximilian",
+  "lastName": "Thomas",
+  "phone": "+49120303056",
+  "email": "thomasmax97@gmail.com",
+  "location": {
+    "address": "Kochstraße 12",
+    "city": "Leipzig",
+    "country": "Deutschland"
+  },
+  "position": "Fullstack Developer",
+  "birthday": "1997/04/04",
+  "aboutMe": "I love to develop \n awesome software"
+}
