@@ -1,6 +1,5 @@
 # Portfolio
 
-> FRONT-END.LV Portfolio
 
 ## Build Setup
 
